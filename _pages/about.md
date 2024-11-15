@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Something About Me What I Want Say"
+title: "Brief Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-  Born in 2005,love Science,Technology,Engineering,and Mathematics(STEM) and want to integrate various fields to change the world.Major in Material Science(Nanomaterials,Functional Materials and Energy Materials),Mechanical Engineering,Software Engineering,Artificial Intelligence and Intelligent Science(Machine Vision and Embedded Systems).For more detailed information, you can check other pages!
+  Born in 2005, love Science, Technology, Engineering, and Mathematics(STEM) and want to integrate various fields to change the world.Major in Material Science(Nanomaterials ,Functional Materials and Energy Materials), Mechanical Engineering, Software Engineering, Artificial Intelligence and Intelligent Science(Machine Vision and Embedded Systems). For more detailed information, you can check other pages!
+
+  Outside of academics, also enjoy music and travel. I'm currently learning to play the violin, and my favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life......
 
 A data-driven personal website
 ======
