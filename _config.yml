@@ -12,7 +12,7 @@ title                    : "Future greatest PI"
 title_separator          : "-"
 name                     : &name "yinyuzhongzhong"
 description              : &description "personal description"
-url                      : "https://yinyuzhongzhong.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yinyuzhongzhong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yinyuzhongzhong/yinyuzhongzhong.github.io"
 
