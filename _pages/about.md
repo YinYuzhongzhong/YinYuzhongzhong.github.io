@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-  Born in 2005, love Science, Technology, Engineering, and Mathematics(STEM) and want to integrate various fields to change the world.Major in Material Science(Nanomaterials ,Functional Materials and Energy Materials), Mechanical Engineering, Software Engineering, Artificial Intelligence and Intelligent Science(Machine Vision and Embedded Systems). For more detailed information, you can check other pages!
+  Born in 2005, love Science, Technology, Engineering, and Mathematics(STEM) and want to integrate various fields to change the world.Major in Material Science(Nanomaterials , Functional Materials and Energy Materials), Mechanical Engineering, Software Engineering, Artificial Intelligence and Intelligent Science(Machine Vision and Embedded Systems). For more detailed information, you can check other pages!
 
-  Outside of academics, also enjoy music and travel. I'm currently learning to play the violin, and my favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life......
+  Outside of academics, also enjoy music and travel. I'm currently learning to play the violin, and my favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life...
 
+  This land is filled with countless tragedies. I wish to contribute my modest strength to transform this not-so-beautiful world into the way I desire...
+
+  
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
