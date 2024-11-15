@@ -18,5 +18,5 @@ Basic Information
 ======
  &nbsp;&nbsp;GitHub: [https://github.com/yinyuzhongzhong](https://github.com/yinyuzhongzhong)  
  &nbsp;&nbsp;&nbsp;ORCID: [https://orcid.org/0009-0002-0147-5318](https://orcid.org/0009-0002-0147-5318)  
- &nbsp;&nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)  
  &nbsp;&nbsp;&nbsp;You can also click on the left sidebar to enter the website.
