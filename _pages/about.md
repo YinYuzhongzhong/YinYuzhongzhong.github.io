@@ -16,7 +16,10 @@ redirect_from:
   
 Basic Information
 ======
- &nbsp;&nbsp;GitHub: [https://github.com/yinyuzhongzhong](https://github.com/yinyuzhongzhong)\n
-  &nbsp;&nbsp;&nbsp;ORCID: [https://orcid.org/0009-0002-0147-5318](https://orcid.org/0009-0002-0147-5318)\n
-  &nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)\n
+ &nbsp;&nbsp;GitHub: [https://github.com/yinyuzhongzhong](https://github.com/yinyuzhongzhong)\n  
+ 
+  &nbsp;&nbsp;&nbsp;ORCID: [https://orcid.org/0009-0002-0147-5318](https://orcid.org/0009-0002-0147-5318)\n  
+  
+  &nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)\n  
+  
  &nbsp;&nbsp;&nbsp;You can also click on the left sidebar to enter the website.
