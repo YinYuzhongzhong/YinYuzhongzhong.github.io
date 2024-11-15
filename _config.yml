@@ -21,7 +21,7 @@ repository               : "yinyuzhongzhong/yinyuzhongzhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yinyuzhong.png"
+  avatar           : "profile.png"
   name             : "Yin Yuzhong"
   pronouns         : # example: "she/her"  
   bio              : "Emo,emo and emo..."
