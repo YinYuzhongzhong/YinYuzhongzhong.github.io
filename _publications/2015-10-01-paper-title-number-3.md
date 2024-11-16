@@ -1,5 +1,5 @@
 ---
-title: "Materials Science SS"
+title: "Materials Science SSS"
 collection: publications
 category: manuscripts
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
