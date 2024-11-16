@@ -3,8 +3,8 @@ permalink: /
 title: "Brief Introduction"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publication/
+  - /publication.html
 ---
 &nbsp;&nbsp;&nbsp;Born in 2005, from Fuyang, Anhui, of Han ethnicity, and a member of the Communist Party of China.
 
