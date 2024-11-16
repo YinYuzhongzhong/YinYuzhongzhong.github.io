@@ -1,10 +1,24 @@
 ---
-title: "Materials Science"
-collection: Skill
-
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-
-
+permalink: /
+title: "Brief Introduction"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+&nbsp;&nbsp;&nbsp;Born in 2005, from Fuyang, Anhui, of Han ethnicity, and a member of the Communist Party of China.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+&nbsp;&nbsp;&nbsp;Love Science, Technology, Engineering, and Mathematics(STEM), want to integrate various fields to change the world and major in Material Science(Nanomaterials , Energy Materials and Functional Materials), Mechanical Engineering/Electronic Engineering
+(Preparation Instrument), Software Engineering(Full Stack Development and Embedded Development), Artificial Intelligence(Machine Learning and Deep Learning) and Intelligent Science(Machine Vision and Internet of Things). Published several papers and received some awards.For more detailed information, you can check other pages...
+
+&nbsp;&nbsp;&nbsp;Outside of academics, also enjoy read, music and travel.Like reading Science Fiction, currently learn to play the violin, and favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life...
+
+&nbsp;&nbsp;&nbsp;This land is filled with countless tragedies. I wish to contribute my modest strength to transform this not-so-beautiful world into the way I desire...
+
+  
+Basic Information
+======
+ &nbsp;&nbsp;GitHub: [https://github.com/yinyuzhongzhong](https://github.com/yinyuzhongzhong)  
+ &nbsp;&nbsp;&nbsp;ORCID: [https://orcid.org/0009-0002-0147-5318](https://orcid.org/0009-0002-0147-5318)  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)  
+ &nbsp;&nbsp;&nbsp;You can also click on the left sidebar to enter the website.
