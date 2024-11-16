@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Future great PIII"
+title                    : "Future great PI"
 title_separator          : "-"
 name                     : &name "yinyuzhongzhong"
 description              : &description "personal description"
