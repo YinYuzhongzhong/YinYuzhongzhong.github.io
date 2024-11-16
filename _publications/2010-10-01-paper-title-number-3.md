@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Artificial Intelligence"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-3
