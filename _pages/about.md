@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+&nbsp;&nbsp;&nbsp;Born in 2005, from Fuyang, Anhui, of Han ethnicity, and a member of the Communist Party of China.
 
-&nbsp;&nbsp;&nbsp;Born in 2005, love Science, Technology, Engineering, and Mathematics(STEM), want to integrate various fields to change the world and major in Material Science(Nanomaterials , Energy Materials and Functional Materials), Mechanical Engineering/Electronic Engineering
+&nbsp;&nbsp;&nbsp;Love Science, Technology, Engineering, and Mathematics(STEM), want to integrate various fields to change the world and major in Material Science(Nanomaterials , Energy Materials and Functional Materials), Mechanical Engineering/Electronic Engineering
 (Preparation Instrument), Software Engineering(Full Stack Development and Embedded Development), Artificial Intelligence(Machine Learning and Deep Learning) and Intelligent Science(Machine Vision and Internet of Things). Published several papers and received some awards.For more detailed information, you can check other pages...
 
 &nbsp;&nbsp;&nbsp;Outside of academics, also enjoy read, music and travel.Like reading Science Fiction, currently learn to play the violin, and favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life...
