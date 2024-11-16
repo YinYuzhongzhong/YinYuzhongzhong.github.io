@@ -13,7 +13,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;Outside of academics, also enjoy read, music and travel.Like reading Science Fiction, currently learn to play the violin, and favorite piece is 《起风了》. I aspire to travel through the vast and beautiful landscapes, to witness the wonders of the world, and to bear witness to the miracles of life...
 
-&nbsp;&nbsp;&nbsp;This land is filled with countless tragedies. I wish to contribute my modest strength to transform this not-so-beautiful world into the way I desire...
+&nbsp;&nbsp;&nbsp;This land is filled with countless tragedies. I wish to contribute my modest strength to transform this not-so-beautiful world into the way I desire...A scientist, as they are called, is a noble being who illuminates the entire world.
 
   
 Basic Information
