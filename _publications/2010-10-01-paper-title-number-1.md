@@ -1,5 +1,5 @@
 ---
-title: "Materials Science"
+title: "Graphic Design"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
