@@ -1,6 +1,5 @@
 ---
-title: "Materials Science S"
+title: "Materials Science "
 ---
-
 222
 
