@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5"
+title: "Mechanical Engineering/Electronic Engineering"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-5
