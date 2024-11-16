@@ -18,10 +18,10 @@ main:
     url: /Award/
         
   - title: "Open Source Resources"
-    url: /Open Source Resources/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
   - title: "Cooperation"
-    url: /Cooperation/
+    url: /markdown/
