@@ -22,3 +22,10 @@ Basic Information
  &nbsp;&nbsp;&nbsp;ORCID: [https://orcid.org/0009-0002-0147-5318](https://orcid.org/0009-0002-0147-5318)  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: [2079259762@qq.com](mailto:2079259762@qq.com)  
  &nbsp;&nbsp;&nbsp;You can also click on the left sidebar to enter the website.
+
+
+ Future Goals
+======
+ &nbsp;&nbsp;&nbsp;Fully Automated Laboratory.  
+ &nbsp;&nbsp;&nbsp;New Methods, New Instruments and New Theories.  
+ &nbsp;&nbsp;&nbsp;Room-Temperature Superconductivity and Controlled Nuclear Fusion.  
