@@ -29,3 +29,5 @@ Basic Information
  &nbsp;&nbsp;&nbsp;Fully Automated Laboratory.  
  &nbsp;&nbsp;&nbsp;New Methods, New Instruments and New Theories.  
  &nbsp;&nbsp;&nbsp;Room-Temperature Superconductivity and Controlled Nuclear Fusion.  
+ &nbsp;&nbsp;&nbsp;I hope I can achieve these goals.
+ 
