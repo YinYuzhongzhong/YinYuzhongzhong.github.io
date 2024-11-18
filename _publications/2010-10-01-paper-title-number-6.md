@@ -8,11 +8,12 @@ excerpt: |
   (2) Theoretical Calculation: DFT, MD, MC; VASP, Gaussian, MS, COMSOL...  
   (3) Data Analysis and Visualization: Origin, Python, R, LINGO, MATLAB...  
   (4) Plotting：3ds Max, PPT, C4D, Blender, Rhino, Chem office...  
+  Specific examples can be viewed by clicking on the subheadings.  
 
 ---
 
-(1)  
-(2)  
-(3)  
-(4)  
+  (1)  
+  (2)  
+  (3)  
+  (4)  
 
