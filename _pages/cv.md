@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+  
 Education
 ======
 * B.S. New Energy Materials and Devices, Hefei University of Technology, currently studying
