@@ -2,7 +2,7 @@
 title: "Material Science"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2024-11-17-paper-title-number-1
 excerpt: |
   (1) Experimental Skills: SEM, TEM, AFM, EDS, XPS, XRD, Raman, FTIR...  
   (2) Theoretical Calculation: DFT, MD, MC; VASP, Gaussian, MS, COMSOL...  
