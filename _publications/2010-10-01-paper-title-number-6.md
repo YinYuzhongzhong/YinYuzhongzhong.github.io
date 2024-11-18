@@ -12,8 +12,12 @@ excerpt: |
 
 ---
 
-  (1)  
-  (2)  
-  (3)  
-  (4)  
+  (1)  Representative Works in Electron Microscopy:  
+  
+  (2)  Representative Works in Theoretical Calculations:  
+  
+  (3)  Representative Works in Data Visualization:  
+  
+  (4)  Representative Works in Schematic Diagrams:  
+  
 
